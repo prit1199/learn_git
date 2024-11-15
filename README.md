@@ -1,3 +1,5 @@
 ### git lesson
-`change form dev-prit` branch
+
+"hello i am new here"
+`change from dev-prit` branch.
 " change form feature-branch "
